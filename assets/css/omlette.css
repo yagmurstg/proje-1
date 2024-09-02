@@ -1,0 +1,149 @@
+body {
+  background-color: #F3E5D7;
+  width: 100%;
+  }
+  
+  
+  .box {
+    background-color: white;
+    margin: 125px 352px 125px 352px;
+    padding: 40px 40px 40px 40px;
+    width: 736px;
+    height: 1700px;
+    display: block;
+   }
+  
+   .box img {
+    width: 100%;
+    border-radius: var(--spacing150);
+    display: block;
+    }
+  
+   .box h1 {
+   color: #312E2C;
+   font-family: 'Young Serif';
+   font-size: 40px;
+   font-weight: 400;
+   line-height: 40px;
+   margin-bottom: 24px;
+   }
+  
+  .box p {
+    color: #5F564D;
+    font-family: 'Outfit';
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 32px;
+   }
+  
+   .small-box {
+    background-color: #FFF7FB;
+    width: 656px;
+    height: 172px;
+    margin-bottom: 32px;
+    border-radius: 12px;
+    gap: 16px;
+    display: inline-block;
+    margin-right: 40px;
+    margin-left: 40px;
+    
+  }
+  
+  .small-box h3 {
+    color: #7A284E;
+    font-family: 'Outift';
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 24px 24px 16px 24px;
+    display: inline-block;
+  }
+  
+  .small-box li {
+    color: #5F564D;
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 8px;
+    display: block;
+  }
+  
+  .small-box-2 h2 {
+  color: #854632;
+  font-family: 'Young Serif';
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  margin-bottom: 24px;
+  }
+  
+  .small-box-2 li {
+  color: #5F564D; 
+  font-family: 'Outfit';
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 8px;
+  }
+  
+  .small-box-2 {
+    border-bottom: 1px solid #E3DDD7;
+  }
+  
+  .small-box-3 h2 {
+  color: #854632; 
+  font-family: 'Young Serif';
+  font-size: 28px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-bottom: 24px;
+  }
+  
+  .small-box-3 li {
+  color: #5F564D; 
+  font-family: 'Outfit';
+  font-size:16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  margin-bottom: 8px;
+  }
+  
+  .small-box-3 {
+    border-bottom: 1px solid #E3DDD7; 
+  }
+  
+  .table h2 {
+    color: #854632; 
+    font-family: 'Young Serif';
+    font-size: 28px;
+    line-height: 28px;
+    font-weight: 400;
+    margin-bottom: 24px; 
+  }
+  
+  .table p {
+    color: #5F564D; 
+    font-family: 'Outfit';
+    font-size:16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 24px;
+    }  
+  
+  .table tr {
+    color: #5F564D; 
+    font-family: 'Outfit';
+    font-size:16px;
+    font-weight: 400;
+  }
+  
+  .table {
+    border-bottom: 1px solid #E3DDD7; 
+  }
+  
+  
